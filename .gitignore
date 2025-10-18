@@ -1,0 +1,11 @@
+# binários/temporários
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+.DS_Store
+
+# VS Code
+.vscode/
